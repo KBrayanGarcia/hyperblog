@@ -37,7 +37,16 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+<<<<<<< HEAD
 #post{
     background-color: white;
     padding: 1rem;
 }
+=======
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
